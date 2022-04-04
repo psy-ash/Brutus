@@ -1,4 +1,4 @@
-# Brutus - A General Web Botting Program WIP
+# Brutus - A General Web Botting Program *WIP
 
 
 Just an idea I had to make website botting more user friendly.
